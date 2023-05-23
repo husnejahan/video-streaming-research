@@ -1,7 +1,8 @@
 # VideoLiterature
+
 Literature of video streaming research published in major venues such as SIGCOMM, NSDI, MobiCom, MobiSys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc.
 
-## # Lightweight-Video-Super-Resolution
+## Lightweight-Video-Super-Resolution
 
 
 - EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers
