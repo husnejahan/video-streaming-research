@@ -1,6 +1,19 @@
 # VideoLiterature
 Literature of video streaming research published in major venues such as SIGCOMM, NSDI, MobiCom, MobiSys, IMC, CoNEXT, INFOCOM, MM, MMSys, OSDI, SOSP etc.
 
+## # Lightweight-Video-Super-Resolution
+
+
+- EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers
+
+- Mobile-Former: Bridging MobileNet and Transformer
+
+- MOBILEVIT: LIGHT-WEIGHT, GENERAL-PURPOSE,AND MOBILE-FRIENDLY VISION TRANSFORMER
+
+- LightViT: Towards Light-Weight Convolution-Free Vision Transformers
+
+- Omni Aggregation Networks for Lightweight Image Super-Resolution
+
 ## Video Streaming
 * [Swift: Adaptive Video Streaming with Layered Neural Codecs](https://www3.cs.stonybrook.edu/~mdasari/papers/nsdi-2022-paper.pdf) [NSDI'22]
 * [SenSei: Aligning Video Streaming Quality with Dynamic User Sensitivity](https://www.usenix.org/system/files/nsdi21-zhang.pdf) [NSDI'21]
